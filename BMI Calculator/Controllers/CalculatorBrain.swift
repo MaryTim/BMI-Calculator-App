@@ -36,3 +36,5 @@ struct CalculatorBrain {
         return String(format: "%.1f", bmi?.value ?? "0.0")
     }
 }
+
+
