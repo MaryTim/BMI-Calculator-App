@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "5493061309f46b2c40ef14c5ae54dc90"
+build_time: [1607011193, 463824000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/BMI-Calculator-iOS13/BMI Calculator/Controllers/CalculateViewController.swift": [1602073675, 715574741]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/BMI-Calculator-iOS13/BMI Calculator/AppDelegate.swift": [1602053282, 474761009]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/BMI-Calculator-iOS13/BMI Calculator/SceneDelegate.swift": [1602053282, 487286806]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/BMI-Calculator-iOS13/BMI Calculator/Controllers/CalculatorBrain.swift": [1604954238, 717491417]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/BMI-Calculator-iOS13/BMI Calculator/Controllers/BMI.swift": [1602072488, 301515818]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/BMI-Calculator-iOS13/BMI Calculator/Controllers/ResultViewController.swift": [1602073925, 188971400]
